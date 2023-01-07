@@ -129,7 +129,7 @@
 		</aside> -->
 	<article id="post">
 	<header>
-		<h2>Apa itu Perpustakaan?</h2>
+		<h2>Apakah itu Perpustakaan?</h2>
 		<p><time datetime="2022-03-22T10:02"><i>22 Maret 2022. Pukul 10.02</i></time></p>
 	</header>
 		<p style="text-align: justify;">	Menurut UU Perpustakaan pada Bab I pasal 1 menyatakan Perpustakaan adalah institusi yang mengumpulkan pengetahuan tercetak dan terekam, mengelolanya dengan cara khusus guna memenuhi kebutuhan intelektualitas para penggunanya melalui beragam cara interaksi pengetahuan.
